@@ -1,0 +1,21 @@
+# Android Studio / Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.idea/
+
+# Local configuration
+local.properties
+
+# Mac system files
+.DS_Store
+
+# Kotlin/Java class files
+*.class
+
+# APKs, AABs, JARs
+*.apk
+*.aab
+*.jar
