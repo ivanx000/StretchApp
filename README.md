@@ -1,5 +1,3 @@
-
-```markdown
 # 🧘 StretchApp
 
 > Combat sedentary fatigue with a full-stack break-management system designed for developers and long-term computer users.
@@ -79,9 +77,3 @@ The app will be available at `http://localhost:3000`
 * **Developer Wellness**: Preventing RSI and back pain during long coding sessions.
 * **Remote Work**: Creating a structured break routine in a home office environment.
 * **Posture Correction**: Targeted stretches for common desk-related physical strain.
-
-```
-
-Would you like me to help you integrate these projects into a single "Technical Projects" section for your resume to highlight your full-stack and data analysis experience?
-
-```
